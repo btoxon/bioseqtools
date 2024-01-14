@@ -1,4 +1,4 @@
-# BioSeqTranslator
+# BioSeq Translator
 
 ## Overview
 
